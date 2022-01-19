@@ -1,14 +1,16 @@
-# Hello stranger! I'm @pgomezponce
+# Hello World
 
-👋 Hi, I’m @pgomezponce. I'm an Interaction Designer, I'm facing some Front-end developer challenges and I'm interested on Data Science.
+👋 Me llamo Pablo y soy Interaction Designer e Ingeniero Multimedia. Aquí encontrarás mis andanzas por el mundo del Front-End.
 
-🌱 I’m currently learning React Native, so we may build solutions for _almost_ everyone.
+🌱 Actualmente estoy creciendo como desarrollador de React Native; pero he tratado con Python, SQL, PHP, Java y HTML/CSS/JS tradicional.
 
-💞️ I’m looking to collaborate on remote projects related to education, data collection and end-to-end challenges (concept to deployment).
+💞️ Me enamoran los proyectos relacionados con la extracción de datos, representación de datos y la posibilidad de compartir información de manera intuitiva.
 
-📫 You can reach me over:
+📫 Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/pablogomezponce/)
 - [Email](mailto://pgomezponce@gmail.com)
+- [Twitch](https://www.twitch.tv/gomezponcep)
+- [Twitter](https://twitter.com/gomezponcep)
 
 
 <!---
