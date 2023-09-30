@@ -9,8 +9,6 @@
 📫 Puedes encontrarme en:
 - [LinkedIn](https://www.linkedin.com/in/pablogomezponce/)
 - [Email](mailto://pgomezponce@gmail.com)
-- [Twitch](https://www.twitch.tv/gomezponcep)
-- [Twitter](https://twitter.com/gomezponcep)
 
 
 <!---
